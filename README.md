@@ -1,7 +1,5 @@
 # Hi there, I'm James Cuadra! 👋
 
-![James Cuadra - Apprentice Software Engineer](https://user-images.githubusercontent.com/your-profile-image-placeholder.png)
-
 I'm a **20-year-old Apprentice Software Engineer** in my 3rd year of a 4-year programme at Fujitsu's **Digital, Data, and Cloud (DDAC)** team. My passion lies in building efficient, user-friendly full-stack web apps with a sprinkle of AI. Here's a bit more about me:
 
 ---
@@ -59,4 +57,4 @@ I proposed to my fiancée, Niamh, at the stunning pier in **Gibsons, CA**. It wa
 
 ---
 
-![Thanks for stopping by!](https://user-images.githubusercontent.com/your-thanks-graphic-placeholder.png)
+![Thanks for stopping by!](https://media.tenor.com/EkcSFDxRvf4AAAAM/thanks-for-dropping-by-the-simpsons.gif)
