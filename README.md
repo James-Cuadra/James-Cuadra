@@ -1,6 +1,6 @@
 # Hi there, I'm James Cuadra! 👋
 
-I'm a **20-year-old Apprentice Software Engineer** in my 3rd year of a 4-year programme at Fujitsu's **Digital, Data, and Cloud (DDAC)** team. My passion lies in building efficient, user-friendly full-stack web apps with a sprinkle of AI. Here's a bit more about me:
+I'm an **Apprentice Software Engineer** in my 3rd year of a 4-year programme at Fujitsu's **Digital, Data, and Cloud (DDAC)** team. My passion lies in building efficient, user-friendly full-stack web apps with a sprinkle of AI. Here's a bit more about me:
 
 ---
 
